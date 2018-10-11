@@ -1,4 +1,5 @@
 # Content: Unsupervised Learning
+Udacity - Machine Learning Engineer Nanodegree | Nathaniel Watkins
 ## Project: Creating Customer Segments
 
 ### Final Report
