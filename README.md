@@ -3,7 +3,7 @@
 
 ### Final Report
 To see my work and results, open: 
-[report.html](https://raw.githubusercontent.com/TheNathanielWatkins/Creating-Customer-Segments-Project/master/report.html)
+[report.html](http://htmlpreview.github.com/?https://github.com/TheNathanielWatkins/Creating-Customer-Segments-Project/blob/master/report.html)
 
 
 ### Install
