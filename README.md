@@ -2,9 +2,7 @@
 ## Project: Creating Customer Segments
 
 ### Final Report
-
-To see my work and results, open the report linked below:
-
+To see my work and results, open: 
 [report.html](https://raw.githubusercontent.com/TheNathanielWatkins/Creating-Customer-Segments-Project/master/report.html)
 
 
