@@ -1,7 +1,7 @@
 # Content: Unsupervised Learning
 ## Project: Creating Customer Segments
 
-## Final Report
+### Final Report
 
 To see my work and results, open the report linked below:
 
