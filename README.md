@@ -1,6 +1,13 @@
 # Content: Unsupervised Learning
 ## Project: Creating Customer Segments
 
+## Final Report
+
+To see my work and results, open the report linked below:
+
+[report.html](https://raw.githubusercontent.com/TheNathanielWatkins/Creating-Customer-Segments-Project/master/report.html)
+
+
 ### Install
 
 This project requires **Python 3** and the following Python libraries installed:
@@ -12,7 +19,7 @@ This project requires **Python 3** and the following Python libraries installed:
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
-If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.
+If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. Make sure that you select the Python 3.x installer and not the Python 2.7 installer.
 
 ### Code
 
